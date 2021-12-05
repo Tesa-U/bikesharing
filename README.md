@@ -31,11 +31,12 @@ In this analysis, we created heatmap to see count of riders during peak hours of
 ### Trips by Gender (Weekday per Hour)
 In this analysis, we categorized trips by weekday hour by gender.
 
-tripsbygender.png
+![tripsbygender.png](images/tripsbygender.png)
+
 ### User Trips by Gender by Weekday
 In this analysis, we compared customers and subscribers with male and female using a heat map. 
 
-weekday.png
+![weekday.png](images/weekday.png)
 
 
 
