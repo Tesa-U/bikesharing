@@ -1,5 +1,5 @@
 
-### Overview of the analysis:
+## Overview of the analysis:
  
 The purpose of this analysis is to create a visualization of bike sharing data for New York City to create a proposal whether bike sharing business would be a good idea for Des Moines.
 Tableau Public is used for the visualization and analysis. The Tableau Story is available at the link below.
@@ -7,7 +7,7 @@ Tableau Public is used for the visualization and analysis. The Tableau Story is 
 Link to the: [NYC Bikesharing Analysis Story](https://public.tableau.com/app/profile/tesa3667/viz/NYCBikesharingAnalysis/NYCBikesharingAnalysis?publish=yes)
 
 ## Results:
--
+
 
  ### Checkout Times for Users
  
@@ -16,29 +16,30 @@ In this analysis, we compared number of customers and duration of their trips. M
 
 ![checkoutTime.png](images/checkoutTime.png)
 
- ###Checkout Times by Gender###
+ ### Checkout Times by Gender
  
 In this analysis, users duration of trips categorized by gender. We can conclude majority users are male. 
-![checkoutTime.png](images/gender.png)
+
+![gender.png](images/gender.png)
 
 
-###Trips by Weekday per Hour
+### Trips by Weekday per Hour
 In this analysis, we created heatmap to see count of riders during peak hours of the week. We can see high usage of morning 7am to 8 am as well as between 5pm and 7pm. 
 
-weekdayperhr.png
+![weekdayperhr.png](images/weekdayperhr.png)
 
-###Trips by Gender (Weekday per Hour)
+### Trips by Gender (Weekday per Hour)
 In this analysis, we categorized trips by weekday hour by gender.
 
 tripsbygender.png
-###User Trips by Gender by Weekday
+### User Trips by Gender by Weekday
 In this analysis, we compared customers and subscribers with male and female using a heat map. 
 
 weekday.png
 
 
 
-##Summary: 
+## Summary: 
 Based on the analysis, investing in the Bike Sharing program in Des Moines would be successful. The service can provide an alternative mode of transportation since most rides are taken to commute work. Results show that bikes are more heavily used by males than females and the majority rides are taken in a highly populated area. 
 Two more analysis that could be done are:
 1.	Relation between and age and usage
