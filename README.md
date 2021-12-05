@@ -1,14 +1,15 @@
 
-##Overview of the analysis:##
+### Overview of the analysis:
  
 The purpose of this analysis is to create a visualization of bike sharing data for New York City to create a proposal whether bike sharing business would be a good idea for Des Moines.
 Tableau Public is used for the visualization and analysis. The Tableau Story is available at the link below.
 
 Link to the: [NYC Bikesharing Analysis Story](https://public.tableau.com/app/profile/tesa3667/viz/NYCBikesharingAnalysis/NYCBikesharingAnalysis?publish=yes)
 
-##Results:##
+## Results:
+-
 
- ###Checkout Times for Users###
+ ### Checkout Times for Users
  
 In this analysis, we compared number of customers and duration of their trips. Most trips are short approximately 10 minutes. 
  
