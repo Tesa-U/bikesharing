@@ -1,21 +1,25 @@
 
-##Overview of the analysis:
+##Overview of the analysis:##
  
 The purpose of this analysis is to create a visualization of bike sharing data for New York City to create a proposal whether bike sharing business would be a good idea for Des Moines.
 Tableau Public is used for the visualization and analysis. The Tableau Story is available at the link below.
 
 Link to the: [NYC Bikesharing Analysis Story](https://public.tableau.com/app/profile/tesa3667/viz/NYCBikesharingAnalysis/NYCBikesharingAnalysis?publish=yes)
 
-##Results:
- ###Checkout Times for Users
+##Results:##
+
+ ###Checkout Times for Users###
+ 
 In this analysis, we compared number of customers and duration of their trips. Most trips are short approximately 10 minutes. 
- ![User Trips by Gender](resources/user_trips_by_gender.png)
+ 
 
 ![checkoutTime.png](images/checkoutTime.png)
 
-### Checkout Times by Gender
+ ###Checkout Times by Gender###
+ 
 In this analysis, users duration of trips categorized by gender. We can conclude majority users are male. 
-gender.png
+![checkoutTime.png](images/gender.png)
+
 
 ###Trips by Weekday per Hour
 In this analysis, we created heatmap to see count of riders during peak hours of the week. We can see high usage of morning 7am to 8 am as well as between 5pm and 7pm. 
